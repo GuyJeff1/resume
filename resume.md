@@ -1,7 +1,7 @@
 # Isaac Peck
 ## Summary
 Metallurgical Materials Engineering student of Colorado school of Mines, class of 2028. Experienced with research and engineering projects individually and collaboratively.
-![me](https://1drv.ms/i/c/574dc7fabb0bdb86/IQCsZ7q9IRQFT5U_KU5lNslZAQNknbR4-MKptKcoGFIaicY?e=bTJLBb) 
+![me](image.png)
 
 ## Education
 * Sato Academy of Mathematics and Science, graduated June 2024
@@ -18,5 +18,7 @@ Metallurgical Materials Engineering student of Colorado school of Mines, class o
 
 ## Contact Information
 **Email:** Isaac_peck@mines.edu
+
 **Phone:** 562-537-5239
+
 **Address:** 1901 Miners Spur, Golden Colorado
